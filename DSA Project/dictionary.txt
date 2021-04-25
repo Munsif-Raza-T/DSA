@@ -1,0 +1,6 @@
+self-discipline%The ability to control one's feelings and overcome one's weaknesses.
+passion%Strong and barely controllable emotion.
+goals%The end toward which effort is directed.
+motivation%The act of being motivated.
+inspiration%The action or power of moving the intellect or emotions.
+DSA%It is an abbrevation of Data Structures and Algorithms.
